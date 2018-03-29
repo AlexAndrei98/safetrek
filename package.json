@@ -1,0 +1,31 @@
+{
+  "name": "safetrek-chatbot",
+  "version": "1.0.0",
+  "description": "test bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "add later"
+  },
+  "keywords": [
+    "facebook",
+    "bot"
+  ],
+  "author": "Alex Andrei",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "bootbot": "^1.0.14",
+    "config": "^1.30.0",
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-node": "^6.0.1"
+  }
+}
